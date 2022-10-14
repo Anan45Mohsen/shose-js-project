@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../images/i-3850150-0\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.conatin{
+    width:80%;
+    margin: auto;
+    color: bisque;
+    text-align: center;
+    font-size:60px;
+    font-style: italic;
+    padding: 10px;
+}
+.conatin h1{
+    border: 2px dashed blanchedalmond;
+    padding:5px;
+}
+
+.carding{
+    margin:20px 15px;
+    color: brown;
+ 
+ 
+}
+.carding a{
+    background-color: brown;
+    border: none;
+
+}
